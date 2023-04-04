@@ -2,6 +2,8 @@
 
 Hi! This is a collection of Jupyter Notebooks to demonstate how to generate interactive graphs and mathimatic formulas using Julia and Python.
 
+Recommended browser to run these Jupyter Notebooks is Google Chrome.
+
 # Installation
 
 This is the installation process to install jupyter notebook and then julia and python extensions to jupyter notebook
